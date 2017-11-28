@@ -1,3 +1,4 @@
 # Hello-World
-First Repository, testing the waters
-Making an edit to test more water
+Hello Sugar Labs
+I am John Winship, and I am doing this very simple task for the Google CodeIn challenge. 
+
